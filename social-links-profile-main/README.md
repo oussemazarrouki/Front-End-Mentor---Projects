@@ -2,6 +2,7 @@
 
 This is my solution to the [Social Links Profile coding challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) by Frontend Mentor.
 
+![Design preview for the Social links profile coding challenge](./design/desktop-preview.jpg)
 ## Project Overview
 
 Your challenge is to build out this social links profile and get it looking as close to the design as possible.
