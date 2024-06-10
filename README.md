@@ -12,6 +12,14 @@ This repository contains my solutions to various [Frontend Mentor](https://www.f
 - **Features:**
   - Hover and focus states for all interactive elements on the page.
 
+### 2. Blog Preview Card
+- **Challenge Link:** [Blog Preview Card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+- **Description:** Build out a blog preview card and ensure it looks as close to the design as possible.
+- **Technologies Used:** HTML, CSS
+- **Live Preview:** You can see the project solution using the Live Server extension on Visual Studio Code (VSCode).
+- **Features:**
+  - Hover and focus states for all interactive elements on the page.
+
 ## Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/)
